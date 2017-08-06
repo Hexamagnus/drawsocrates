@@ -1,0 +1,320 @@
+{
+    "title": "¿Qué es la Ingeniería?",
+    "nodes": [
+        {
+            "text": "La",
+            "note": "0.038961039",
+            "nodes": []
+        },
+        {
+            "text": "ingeniería",
+            "note": "0.0405192072",
+            "nodes": []
+        },
+        {
+            "text": "conjunto",
+            "note": "0.0140687579",
+            "nodes": []
+        },
+        {
+            "text": "conocimientos",
+            "note": "0.0285332963",
+            "nodes": []
+        },
+        {
+            "text": "científicos",
+            "note": "0.0293590556",
+            "nodes": []
+        },
+        {
+            "text": "tecnológicos",
+            "note": "0.0151168286",
+            "nodes": []
+        },
+        {
+            "text": "innovación",
+            "note": "0.0153452941",
+            "nodes": []
+        },
+        {
+            "text": "invención",
+            "note": "0.0311614317",
+            "nodes": []
+        },
+        {
+            "text": "desarrollo",
+            "note": "0.0482213825",
+            "nodes": []
+        },
+        {
+            "text": "mejora",
+            "note": "0.0168744228",
+            "nodes": []
+        },
+        {
+            "text": "técnicas",
+            "note": "0.0171590865",
+            "nodes": []
+        },
+        {
+            "text": "herramientas",
+            "note": "0.0174534326",
+            "nodes": []
+        },
+        {
+            "text": "satisfacer",
+            "note": "0.0177579605",
+            "nodes": []
+        },
+        {
+            "text": "necesidades",
+            "note": "0.0180732044",
+            "nodes": []
+        },
+        {
+            "text": "empresas",
+            "note": "0.0183997365",
+            "nodes": []
+        },
+        {
+            "text": "sociedad",
+            "note": "0.0374763402",
+            "nodes": []
+        },
+        {
+            "text": "El",
+            "note": "0.0194535572",
+            "nodes": []
+        },
+        {
+            "text": "ingeniero",
+            "note": "0.0198318521",
+            "nodes": []
+        },
+        {
+            "text": "utiliza",
+            "note": "0.0202249967",
+            "nodes": []
+        },
+        {
+            "text": "matemáticas",
+            "note": "0.0206338764",
+            "nodes": []
+        },
+        {
+            "text": "física",
+            "note": "0.0210594483",
+            "nodes": []
+        },
+        {
+            "text": "química",
+            "note": "0.0215027478",
+            "nodes": []
+        },
+        {
+            "text": "programación",
+            "note": "0.0219648976",
+            "nodes": []
+        },
+        {
+            "text": "ciencias",
+            "note": "0.0224471165",
+            "nodes": []
+        },
+        {
+            "text": "tecnologías",
+            "note": "0.0459014598",
+            "nodes": []
+        },
+        {
+            "text": "manejo",
+            "note": "0.0240283532",
+            "nodes": []
+        },
+        {
+            "text": "eficiente",
+            "note": "0.0246053736",
+            "nodes": []
+        },
+        {
+            "text": "productivo",
+            "note": "0.0252104225",
+            "nodes": []
+        },
+        {
+            "text": "recursos",
+            "note": "0.0516911475",
+            "nodes": []
+        },
+        {
+            "text": "fuerzas",
+            "note": "0.0272160419",
+            "nodes": []
+        },
+        {
+            "text": "naturaleza",
+            "note": "0.0279561913",
+            "nodes": []
+        },
+        {
+            "text": "beneficio",
+            "note": "0.028737112",
+            "nodes": []
+        },
+        {
+            "text": "actividad",
+            "note": "0.0295622321",
+            "nodes": []
+        },
+        {
+            "text": "transforma",
+            "note": "0.0304353713",
+            "nodes": []
+        },
+        {
+            "text": "conocimiento",
+            "note": "0.062721598",
+            "nodes": []
+        },
+        {
+            "text": "práctico",
+            "note": "0.0333893559",
+            "nodes": []
+        },
+        {
+            "text": "aplica",
+            "note": "0.0345029207",
+            "nodes": []
+        },
+        {
+            "text": "métodos",
+            "note": "0.0356919062",
+            "nodes": []
+        },
+        {
+            "text": "perfeccionamiento",
+            "note": "0.0369641377",
+            "nodes": []
+        },
+        {
+            "text": "manera",
+            "note": "0.0383285493",
+            "nodes": []
+        },
+        {
+            "text": "pragmática",
+            "note": "0.0397953862",
+            "nodes": []
+        },
+        {
+            "text": "ágil",
+            "note": "0.0413764513",
+            "nodes": []
+        },
+        {
+            "text": "adecuándose",
+            "note": "0.04308541",
+            "nodes": []
+        },
+        {
+            "text": "limitaciones",
+            "note": "0.0449381683",
+            "nodes": []
+        },
+        {
+            "text": "tiempo",
+            "note": "0.0469533463",
+            "nodes": []
+        },
+        {
+            "text": "requisitos",
+            "note": "0.09830575",
+            "nodes": []
+        },
+        {
+            "text": "legales",
+            "note": "0.0542211265",
+            "nodes": []
+        },
+        {
+            "text": "seguridad",
+            "note": "0.0571519467",
+            "nodes": []
+        },
+        {
+            "text": "ecológicos",
+            "note": "0.060407015",
+            "nodes": []
+        },
+        {
+            "text": "etc.",
+            "note": "0.064041906",
+            "nodes": []
+        },
+        {
+            "text": "Su",
+            "note": "0.0681253779",
+            "nodes": []
+        },
+        {
+            "text": "estudio",
+            "note": "0.0727434454",
+            "nodes": []
+        },
+        {
+            "text": "campo",
+            "note": "0.0780050278",
+            "nodes": []
+        },
+        {
+            "text": "directamente",
+            "note": "0.0840499184",
+            "nodes": []
+        },
+        {
+            "text": "relacionado",
+            "note": "0.0910602392",
+            "nodes": []
+        },
+        {
+            "text": "comienzo",
+            "note": "0.0992772452",
+            "nodes": []
+        },
+        {
+            "text": "Revolución",
+            "note": "0.109026537",
+            "nodes": []
+        },
+        {
+            "text": "Industrial",
+            "note": "0.120756825",
+            "nodes": []
+        },
+        {
+            "text": "constituyendo",
+            "note": "0.1351011359",
+            "nodes": []
+        },
+        {
+            "text": "actividades",
+            "note": "0.1529762275",
+            "nodes": []
+        },
+        {
+            "text": "pilares",
+            "note": "0.1757487892",
+            "nodes": []
+        },
+        {
+            "text": "sociedades",
+            "note": "0.2055207638",
+            "nodes": []
+        },
+        {
+            "text": "modernas",
+            "note": "0.2456272708",
+            "nodes": []
+        }
+    ]
+}
