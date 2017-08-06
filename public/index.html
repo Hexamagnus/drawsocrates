@@ -14,8 +14,43 @@
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
     <title>React App</title>
+    <script type="text/javascript" language="javascript">    
+    function getTablaFrecuencias()
+   {
+       var textoVariable;        textoVariable = document.getElementById("texto").value;        URL = "https://5e79bb3b.ngrok.io/mind-map";  //Your URL
+       var formData = new FormData();
+       formData.append("article", textoVariable);
+       var xmlhttp = new XMLHttpRequest();
+       xmlhttp.onreadystatechange = function (xmlhttp)
+       {
+           console.log(xmlhttp);
+            console.log(xmlhttp.srcElement.response)
+           alert(xmlhttp.srcElement.response)
+           if(xmlhttp.readyState === XMLHttpRequest.DONE && xmlhttp.status === 200) {
+           alert(xmlhttp.responseText);
+       }
+       };
+       xmlhttp.open("POST", URL);
+       // xmlhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+       // xmlhttp.setRequestHeader('Authorization', 'Basic ' + window.btoa('apiusername:apiuserpassword')); //in prod, you should encrypt user name and password and provide encrypted keys here instead
+       // xmlhttp.onreadystatechange = callbackFunction(xmlhttp);
+       xmlhttp.send(formData);
+       
+       alert(xmlhttp.responseText);
+       return xmlhttp.responseText;
+   }    
+ </script>
   </head>
   <body>
+    <div id="formulario">
+        <form>
+        <label>
+          Name:
+          <input type="text" name="name" />
+        </label>
+       <input type="submit" value="Submit" onclick="getTablaFrecuencias()" />
+      </form>
+    </div>
     <div id="target"></div>
     <!--
       This HTML file is a template.

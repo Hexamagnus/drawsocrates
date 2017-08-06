@@ -6,14 +6,11 @@ import { nodes, connections } from './my-map.json';
 class Example extends Component {
   render() {
     return (
-      <form onSubmit={this.handleSubmit}>
-        <label>
-          Name:
-          <input type="text" value={this.state.value} onChange={this.handleChange} />
-        </label>
-        <input type="submit" value="Submit" />
-      </form>
-    
+      <MindMap
+        nodes={this.props.nodes}
+        connections={this.props.connections}
+        editable={true}
+      />
     );
   }
 }
